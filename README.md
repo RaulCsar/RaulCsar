@@ -1,32 +1,53 @@
-# Raul César Costa da Silva
+# Raul César
 
-## 🚀 Sobre mim
+## 🚀 Sobre Mim
 
-Olá! Meu nome é Raul César, tenho 21 anos e sou um profissional de tecnologia apaixonado por desenvolvimento web, análise e engenharia de dados. Atualmente, atuo como **Tutor de Desenvolvimento Web no C.E.S.A.R.**, onde ajudo a formar novos talentos para o mercado de tecnologia.
+**CEO & Sócio na Mangue House**, a primeira Deep Tech de Jaboatão dos Guararapes-PE focada em inovação disruptiva com IA. Sou desenvolvedor com ênfase em **Dados, Machine Learning e Automação**, unindo visão técnica de engenharia com facilitação estratégica.
 
-Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos inovadores, com foco em soluções eficientes e escaláveis.
+Atualmente, componho a **Coordenadoria de Inovação do Porto de Suape**, atuando como desenvolvedor interno e facilitador técnico (bridge) entre analistas de negócio e startups parceiras. Também sigo como **Tutor no C.E.S.A.R**, mentorando novos talentos em tecnologias Full Stack.
 
-## 💻 Habilidades Técnicas
+---
 
-- **Linguagens de Programação:** Python, JavaScript, Java
-- **Desenvolvimento Web:** HTML, CSS
-- **Dados:** Análise de Dados, Engenharia de Dados, Arquitetura de Dados, Bancos de Dados (SQL e NoSQL)
-- **Inteligência Artificial:** Conceitos e aplicação em projetos
-- **Outras Habilidades:** Experiência com suporte técnico (freelancer para LATAM)
+## 🏆 Projetos em Destaque
+
+### **Marduk AI (Mangue House)**
+* Agente de IA para **People Analytics & HR Tech**.
+* **Nota Máxima** no Microsoft AI Challenge III.
+* Selecionado para a 1ª fase do **Centelha 3 - FACEPE**.
+
+
+---
+
+## 💻 Stack Técnica
+
+- **Linguagens:** Python (Expertise em automação e dados), JavaScript, Java.
+- **AI & Data:** Machine Learning (Scikit-learn), Data Pipelines, Computer Vision, Web Scraping avançado.
+- **Inovação em Suape:** Desenvolvimento de Dashboards estratégicos, Web Apps e automações com IA para otimização portuária.
+- **Bancos de Dados:** SQL, NoSQL e Grafos (Neo4j).
+
+---
 
 ## 💼 Experiência Profissional
 
-**Tutor de Desenvolvimento Web | C.E.S.A.R.**
+**CEO / Sócio | Mangue House** * Liderança técnica e executiva em projetos de Deep Tech e Inteligência Artificial.
 
-- Responsável por mentorar e guiar alunos no aprendizado de tecnologias web modernas.
-- Facilitação de workshops e atividades práticas para o desenvolvimento de projetos.
-- Suporte técnico e conceitual nas áreas de front-end e back-end.
+**Dev Python | Porto de Suape** * Atuação na Coordenadoria de Inovação, desenvolvendo soluções internas e mediando a comunicação técnica entre stakeholders não-técnicos e parceiros tecnológicos.
 
-## 🎓 Formação Acadêmica
+**Tutor de Desenvolvimento Web | C.E.S.A.R.** * Facilitação de workshops e mentoria em arquitetura de software e desenvolvimento web.
 
-**Análise e Desenvolvimento de Sistemas (em andamento) | IFPE Jaboatão**
+---
+
+## 🎓 Formação & Liderança
+
+- **Análise e Desenvolvimento de Sistemas** | IFPE Jaboatão.
+- **Pesquisador PROEXT (CNPq)** | Cidadania e Letramento Digital.
+- **DCE Yapoatan** | Co-fundador e Vice-Presidente.
+
+---
 
 ## 📫 Contato
 
-- **LinkedIn:** [https://linkedin.com/in/raulcesar0712](https://linkedin.com/in/raulcesar0712)
+- **LinkedIn:** [linkedin.com/in/raulcesar0712](https://linkedin.com/in/raulcesar0712)
 - **E-mail:** [raulcesar.0712@gmail.com](mailto:raulcesar.0712@gmail.com)
+
+> "O homem coletivo sente a necessidade de lutar"
