@@ -2,7 +2,7 @@
 
 **Desenvolvedor Fullstack | Especialista em IA & Dados | Tech Lead**
 
-[cite_start]Sou um desenvolvedor em formação com foco pragmático na resolução de problemas complexos através de **Dados, Machine Learning e Arquitetura Cloud**[cite: 1, 2]. Atualmente, ocupo a posição de único desenvolvedor no time de inovação do **Complexo Industrial Portuário de Suape**, onde atuo como ponte técnica entre analistas de negócio e parceiros tecnológicos, além de liderar projetos de alta criticidade.
+Sou um desenvolvedor em formação com foco pragmático na resolução de problemas complexos através de **Dados, Machine Learning e Arquitetura Cloud**. Atualmente, ocupo a posição de único desenvolvedor no time de inovação do **Complexo Industrial Portuário de Suape**, onde atuo como ponte técnica entre analistas de negócio e parceiros tecnológicos, além de liderar projetos de alta criticidade.
 
 ---
 
@@ -16,7 +16,7 @@ Como o único desenvolvedor da estatal, minhas responsabilidades abrangem todo o
 ---
 
 ## 🚀 Empreendedorismo & Educação
-* **CEO na Mangue House:** Liderança na primeira Deep Tech de Jaboatão dos Guararapes. [cite_start]Criador do **Marduk AI**, projeto premiado com nota máxima no **Microsoft AI Challenge III**[cite: 1, 2].
+* **CEO na Mangue House:** Liderança na primeira Deep Tech de Jaboatão dos Guararapes. Criador do **Marduk AI**, projeto premiado com nota máxima no **Microsoft AI Challenge III**.
 * **Tutor Top 1 no C.E.S.A.R. School:** Eleito o melhor tutor (1º de 162) pela clareza técnica e capacidade de engajamento no ensino de tecnologias Fullstack.
 * **Pesquisador PROEXT/CNPq:** Atuação em projetos de Cidadania Digital e Ética em IA no IFPE Jaboatão.
 
@@ -37,9 +37,9 @@ Como o único desenvolvedor da estatal, minhas responsabilidades abrangem todo o
 ---
 
 ## 🎓 Liderança & Formação
-* [cite_start]**ADS no IFPE Jaboatão:** Foco em Ciência de Dados e Machine Learning[cite: 1, 2].
-* [cite_start]**DCE Yapoatan:** Co-fundador e Vice-Presidente[cite: 1, 2].
-* [cite_start]**Medalha de Ouro:** Maratona de Programação (2022)[cite: 2].
+* **ADS no IFPE Jaboatão:** Foco em Ciência de Dados e Machine Learning.
+* **DCE Yapoatan:** Co-fundador e Vice-Presidente.
+* **Medalha de Ouro:** Maratona de Programação (2022).
 
 ---
 
