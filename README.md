@@ -2,27 +2,39 @@
 
 **Desenvolvedor Fullstack | Especialista em IA & Dados | Tech Lead**
 
-Sou um desenvolvedor em formação com foco pragmático na resolução de problemas complexos através de **Dados, Machine Learning e Arquitetura Cloud**. Atualmente, ocupo a posição de único desenvolvedor no time de inovação do **Complexo Industrial Portuário de Suape**, onde atuo como ponte técnica entre analistas de negócio e parceiros tecnológicos, além de liderar projetos de alta criticidade.
+Sou um engenheiro de software em formação com foco pragmático na resolução de problemas complexos através de **Dados, Inteligência Artificial e Arquitetura Cloud**. Transito entre o rigor acadêmico da pesquisa tecnológica e o pragmatismo da entrega contínua de software em ambientes corporativos críticos.
 
 ---
 
-## ⚓ Atuação no Complexo de Suape
-Como o único desenvolvedor da estatal, minhas responsabilidades abrangem todo o ciclo de vida de software e inovação:
-* **Liderança Técnica (Tech Lead):** Responsável técnico e recrutador de 6 residentes do programa Bolsa Futuro Digital.
-* **Infraestrutura & DevOps:** Realizei a migração completa de sistemas (incluindo Digital Signage) da Vercel para o **Google Cloud Platform (GCP)**, estruturando esteiras de CI/CD para deploys seguros em produção.
-* **Visão Computacional:** Desenvolvendo o sistema de automação para gestão de entrada e saída do estacionamento do porto utilizando processamento de imagens em tempo real.
-* **Automação & Scraping:** Desenvolvimento de Web Scrapers resilientes utilizando **Playwright** para extração e processamento de dados portuários.
+## 💼 Experiência Profissional
+
+### ⚓ Complexo Industrial Portuário de Suape | *Tech Lead & Dev Fullstack*
+Como o único desenvolvedor da estatal, lidero tecnicamente iniciativas de inovação e *Smart Ports*:
+* **Liderança Técnica:** Responsável pelo recrutamento técnico e liderança de 6 desenvolvedores residentes do programa Bolsa Futuro Digital.
+* **Cloud & DevOps:** Migração de sistemas (ex: Digital Signage) da Vercel para o **Google Cloud Platform (GCP)**, construindo esteiras de CI/CD para deploys seguros em produção.
+* **IA & Dados:** Desenvolvimento de sistemas de Visão Computacional para controle de pátios e automação de extração de dados com Web Scrapers resilientes (Playwright).
+
+### 👨‍🏫 C.E.S.A.R. School | *Tutor de Desenvolvimento Web*
+Atuação profissional focada em letramento digital e formação de novos talentos de tecnologia:
+* **Mentoria Técnica:** Ensino de arquitetura de software, lógica avançada, Python e ecossistema Web (HTML/CSS/JS).
+* **Reconhecimento:** Eleito o **Tutor Top 1 (1º de 162)** pela capacidade de traduzir conceitos complexos de forma didática e pelo alto engajamento das turmas.
+
+### 🦀 Mangue House | *CEO & Fundador*
+* Liderança estratégica e técnica na primeira startup de Deep Tech de Jaboatão dos Guararapes.
+* Criador do **Marduk AI** (HR Tech via IA), projeto vencedor com nota máxima no **Microsoft AI Challenge III**.
 
 ---
 
-## 🚀 Empreendedorismo & Educação
-* **CEO na Mangue House:** Liderança na primeira Deep Tech de Jaboatão dos Guararapes. Criador do **Marduk AI**, projeto premiado com nota máxima no **Microsoft AI Challenge III**.
-* **Tutor Top 1 no C.E.S.A.R. School:** Eleito o melhor tutor (1º de 162) pela clareza técnica e capacidade de engajamento no ensino de tecnologias Fullstack.
-* **Pesquisador PROEXT/CNPq:** Atuação em projetos de Cidadania Digital e Ética em IA no IFPE Jaboatão.
+## 📊 Minhas Estatísticas & Linguagens
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulCsar&layout=compact&theme=dracula&hide_border=true&custom_title=Linguagens%20Mais%20Utilizadas" alt="Top Linguagens" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaulCsar&show_icons=true&theme=dracula&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+</div>
 
 ---
 
-## 💻 Stack Técnica
+## 💻 Stack Tecnológica
 
 ### **Linguagens & Core**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,16 +42,16 @@ Como o único desenvolvedor da estatal, minhas responsabilidades abrangem todo o
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **IA, Dados & Automação**
-* **Machine Learning & Deep Learning:** Scikit-learn, Modelagem preditiva e Visão Computacional.
+* **Machine Learning & CV:** Scikit-learn, Modelagem preditiva e Visão Computacional.
 * **Engenharia de Dados:** Pipelines de ETL, Web Scraping avançado (Playwright/Selenium) e análise via Pandas.
 * **Cloud & Infra:** GCP (Cloud Run, Artifact Registry), Docker e CI/CD.
 
 ---
 
-## 🎓 Liderança & Formação
-* **ADS no IFPE Jaboatão:** Foco em Ciência de Dados e Machine Learning.
-* **DCE Yapoatan:** Co-fundador e Vice-Presidente.
-* **Medalha de Ouro:** Maratona de Programação (2022).
+## 🎓 Pesquisa & Formação Acadêmica
+* **ADS no IFPE Jaboatão:** Foco acadêmico em Ciência de Dados e Machine Learning.
+* **Pesquisador PROEXT/CNPq:** Atuação na linha de pesquisa de Cidadania Digital, Letramento e Ética em IA.
+* **DCE Yapoatan:** Co-fundador e atual Vice-Presidente.
 
 ---
 
